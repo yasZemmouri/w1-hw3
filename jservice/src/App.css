@@ -1,0 +1,39 @@
+*{
+    margin: 0,
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6em;
+    text-align: center;
+    background-color: #3e5f73;
+    color: white;
+}
+h2{
+    color: #ead27a
+}
+span{
+    color: white
+}
+.decrease{
+    background-color: #fe938c;
+}
+.increase{
+    background-color: #6191b5;
+}
+.reset{
+    background-color: #e71d37 ;
+}
+.get-question{
+    background-color: #ead27a;
+}
+.reveal-answer{
+    background-color: #1a2650;
+    color: white;
+    padding: 10px 40px;
+}
+button{
+    padding: 5px 10px;
+    margin: 10px;
+}
